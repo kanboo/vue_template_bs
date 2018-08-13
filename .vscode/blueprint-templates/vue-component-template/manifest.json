@@ -1,6 +1,4 @@
 {
-  "suffixesToIgnoreInInput": [
-    "Component"
-  ],
+  "suffixesToIgnoreInInput": ["Component"],
   "createFilesInFolderWithPattern": "__pascalCase_name__"
 }
